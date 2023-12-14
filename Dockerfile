@@ -1,3 +1,0 @@
-FROM datalust/seq:2023.1
-
-ENV ACCEPT_EULA=Y
